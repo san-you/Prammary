@@ -1,7 +1,9 @@
 ---
 layout: default
-title: ガンダムバルバトスルプスレクス
+title: Prammary
 ---
+
+# ガンダムバルバトスルプスレクス
 
 [一覧に戻る](https://san-you.github.io/Prammary)
 

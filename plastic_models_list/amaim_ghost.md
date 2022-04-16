@@ -1,7 +1,10 @@
 ---
 layout: default
-title: アメインゴースト
+title: Prammary
 ---
+
+# アメインゴースト
+
 
 [一覧に戻る](https://san-you.github.io/Prammary)
 
