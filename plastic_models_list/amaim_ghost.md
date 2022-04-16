@@ -1,4 +1,8 @@
-# アメインゴースト
+---
+layout: default
+title: アメインゴースト
+---
+
 [一覧に戻る](https://san-you.github.io/Prammary)
 
 完成日: 2022/04/15

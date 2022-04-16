@@ -1,4 +1,8 @@
-# Prammary
+---
+layout: default
+title: Prammary
+description: 作成したプラモを載せてます。
+---
 
 # プラモ一覧
 

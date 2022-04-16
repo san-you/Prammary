@@ -1,4 +1,8 @@
-# ガンダムバルバトスルプスレクス 
+---
+layout: default
+title: ガンダムバルバトスルプスレクス
+---
+
 [一覧に戻る](https://san-you.github.io/Prammary)
 
 完成日: 2022/02/19
