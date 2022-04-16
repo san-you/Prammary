@@ -1,4 +1,5 @@
-# ガンダムバルバトスルプスレクス
+# ガンダムバルバトスルプスレクス 
+完成日: 2022/02/19
 
 ## 外観
 <img src="../images/gundam_barbatos_lupus_rex/IMG_0754.JPG" width="60%" height="60%">
